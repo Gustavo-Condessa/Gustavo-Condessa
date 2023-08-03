@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gustavo-Condessa, mechanical engineer, currently working on HVAC.
-- 👀 I’m interested in building thing, programs ins particular.
+- 👀 I’m interested in building things, programs in particular.
 - 🌱 I’m currently learning data analytics and cloud infrstructure.
 - 💞️ I’m looking to collaborate on any subject I might be able to help.
 - 📫 gustavlones@gmail.com
